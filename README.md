@@ -19,4 +19,5 @@ This project includes:
 - ## 💡 Business Problem
 Analyze data to extract meaningful insights for decision-making.
 
+## 📸 Dashboard Preview
 ![Dashboard](dashboard.png)
